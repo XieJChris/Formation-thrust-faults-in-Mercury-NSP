@@ -1,4 +1,4 @@
-# Dating-the-contraction-of-Mercury
+# Dating-the-contraction-of-Mercury:From the perspective of mantle convection
 * Supplementary for *Dating the contraction of Mercury*.  
   
 * This repository only contains the source code of the 2-D convectional simulation. 
