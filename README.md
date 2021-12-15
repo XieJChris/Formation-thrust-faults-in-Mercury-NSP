@@ -9,4 +9,4 @@
 
 * As for the rest of source codes running the simulation, they can be accessed through: https://github.com/geodynamics/aspect
   
-* This simulation runs on Linux platforms, for example, CentOS/Ubuntu LTS. Before running, refer to the relevant manual (https://www.math.clemson.edu/~heister/manual.pdf) to download, install and configure the necessary running environment.
+* This simulation runs on Linux platforms, for example, CentOS/Ubuntu LTS. Before running, refer to the relevant manual (https://www.math.clemson.edu/~heister/manual.pdf) to download, install and configure the necessary running environments.
