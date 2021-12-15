@@ -8,8 +8,8 @@ namespace aspect
 	{
 		template <int dim>
 		void MulticompositionHeating<dim>::evaluate(const MaterialModel::MaterialModelInputs<dim> &material_model_inputs,
-                                                const MaterialModel::MaterialModelOutputs<dim> &material_model_outputs,
-                                                      HeatingModel::HeatingModelOutputs &heating_model_outputs) const
+                                                            const MaterialModel::MaterialModelOutputs<dim> &material_model_outputs,
+                                                                  HeatingModel::HeatingModelOutputs &heating_model_outputs) const
 		{
 			for(unsigned int q=0; q<heating_model_outputs.heating_source_terms.size(); ++q)
 			{
