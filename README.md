@@ -1,5 +1,5 @@
 # Dating the contraction of Mercury: Application to Mercury's Northern Smooth Plains
-* Supplementary for *Dating the contraction of Mercury: From the perspective of mantle convection*.  
+* Supplementary for *Dating the contraction of Mercury: Application to Mercury's Northern Smooth Plains*.  
   
 * This repository only contains the necessary codes for this 2-D convectional simulation. 
 
