@@ -16,8 +16,8 @@ namespace aspect
 		public:
 
 			void evaluate(const MaterialModel::MaterialModelInputs<dim> &material_model_inputs,
-                          const MaterialModel::MaterialModelOutputs<dim> &material_model_outputs,
-                                HeatingModel::HeatingModelOutputs &heating_model_outputs) const override;
+                                      const MaterialModel::MaterialModelOutputs<dim> &material_model_outputs,
+                                            HeatingModel::HeatingModelOutputs &heating_model_outputs) const override;
 
 			static void declare_parameters(ParameterHandler &prm);
 
@@ -29,13 +29,13 @@ namespace aspect
 
 			std::vector<double> half_decay_times;
 
-        	std::vector<double> initial_radioactive_heating_rates;
+        	        std::vector<double> initial_radioactive_heating_rates;
 
-        	std::vector<double> portion_coefficients;
+        	        std::vector<double> portion_coefficients;
 
-        	std::vector<bool> fields_used_in_heat_production_averaging;
+        	        std::vector<bool> fields_used_in_heat_production_averaging;
 
-        	bool use_background_field_for_heat_production_averaging;
+        	        bool use_background_field_for_heat_production_averaging;
 		};
 	}
 }
