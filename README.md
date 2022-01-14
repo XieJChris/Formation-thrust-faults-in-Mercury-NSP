@@ -1,5 +1,5 @@
 #On the formation of thrust-faults related landforms under low strain rate in Mercury’s Northern Smooth Plains: A two-dimensional numerical simulation
-* Supplements to the paper *A thermo-dynamic model of thrust-faults related landforms under low strain rate: Application to Mercury's Northern Smooth Plains*.  
+* Supplementart repositroy to the paper *On the formation of thrust-faults related landforms under low strain rate in Mercury’s Northern Smooth Plains: A two-dimensional numerical simulation*.  
   
 * This repository only contains the necessary codes for our 2-D convectional simulation. 
 
