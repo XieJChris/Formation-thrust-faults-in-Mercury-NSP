@@ -1,5 +1,5 @@
-#On the formation of thrust-faults related landforms under low strain rate in Mercury’s Northern Smooth Plains: A two-dimensional numerical simulation
-* Supplementary repositroy to the paper *On the formation of thrust-faults related landforms under low strain rate in Mercury’s Northern Smooth Plains: A two-dimensional numerical simulation*.  
+#On the formation of thrust-faults related landforms in Mercury’s Northern Smooth Plains: A new mechanical model of the lithosphere
+* Supplementary repositroy to the manuscript *On the formation of thrust-faults related landforms in Mercury’s Northern Smooth Plains: A new mechanical model of the lithosphere*.  
   
 * This repository only contains the necessary codes for our 2-D convectional simulation. 
 
